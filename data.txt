@@ -1,0 +1,9 @@
+DATA LOG
+*********************************************
+Customer Name: Gildo Ttai
+Product: Cozy Nights Monarch
+VAT: R 600.0
+COMMISSION: R 200.0
+TOTAL: R 4800.0
+*********************************************
+
